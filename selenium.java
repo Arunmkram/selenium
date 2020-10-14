@@ -84,6 +84,8 @@ public class selenium {
 
          WebElement ok = driver.findElement(By.xpath("/html/body/div[10]/div[7]/div/button"));
          ok.click();
+        
+         System.out.println("execution is over");
 
 
     }
